@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textview_level">Level: %d</string>
+    <string name="textview_lines">Reihen: %d</string>
+    <string name="textview_next_part">Nächstes Teil:</string>
+    <string name="textview_score">Punkte: %d</string>
+    <string name="menu_item_pause">Spiel pausieren</string>
+    <string name="menu_item_resume">Spiel fortsetzen</string>
+    <string name="menu_item_reset">Spiel zurücksetzen</string>
+    <string name="menu_item_start">Spiel starten</string>
+    <string name="dialog_reset_title">Spiel zurücksetzen?</string>
+    <string name="dialog_reset">Durch das Zurücksetzen des Spiels wird das laufende Spiel beendet.</string>
+    <string name="dialog_cancel">Abbrechen</string>
+</resources>

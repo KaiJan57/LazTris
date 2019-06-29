@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">LazTris</string>
+    <string name="textview_next_part">Next Part:</string>
+    <string name="textview_score">Score: %d</string>
+    <string name="textview_level">Level: %d</string>
+    <string name="textview_lines">Lines: %d</string>
+    <string name="menu_item_pause">Pause game</string>
+    <string name="menu_item_resume">Resume game</string>
+    <string name="menu_item_start">Start game</string>
+    <string name="menu_item_reset">Reset game</string>
+    <string name="dialog_reset_title">Reset game?</string>
+    <string name="dialog_reset">By resetting the game, your current game will be stopped.</string>
+    <string name="dialog_ok" translatable="false">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
